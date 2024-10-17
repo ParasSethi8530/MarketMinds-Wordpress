@@ -49,4 +49,5 @@ Thank you for visiting **Market Minds**! We hope you find our digital marketing 
 
 Feel free to modify the content to better fit your specific needs or to add any additional information!
 
-## Below is the video of full website
+## Below is the video of full website design and this website is responsive
+
